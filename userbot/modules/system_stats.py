@@ -170,11 +170,11 @@ async def amireallyalive(alive):
     user = await alive.client.get_me()
     uptime = await get_readable_time((time.time() - StartTime))
     output = (
-        f"**[Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) is Up and Running.**\n\n"
+        f"**[Pesong-Userbot](https://github.com/fahriwetv08/pesonguserobot) Berhasil Dijalankan.**\n\n"
         f"**{alive_text}**\n\n"
         f"{emoji} **Master :** [{user.first_name}](tg://user?id={user.id}) \n"
         f"{emoji} **Modules :** `{len(modules)} Modules` \n"
-        f"{emoji} **Bot Version :** `{BOT_VER}` \n"
+        f"{emoji} **Bot Versi :** `{BOT_VER}` \n"
         f"{emoji} **Python Version :** `{python_version()}` \n"
         f"{emoji} **Pytgcalls Version :** `{pytgcalls.__version__}` \n"
         f"{emoji} **Telethon Version :** `{version.__version__}` \n"
