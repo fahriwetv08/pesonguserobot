@@ -1,9 +1,9 @@
-# Man - UserBot
-# Copyright (c) 2022 Man-Userbot
+# Pesong - UserBot
+# Copyright (c) 2022 Pesong-Userbot
 # Credits: @mrismanaziz || https://github.com/mrismanaziz
 #
-# This file is a part of < https://github.com/mrismanaziz/Man-Userbot/ >
-# t.me/SharingUserbot & t.me/Lunatic0de
+# This file is a part of < https://github.com/fahriwetv08/pesonguserobot/ >
+# t.me/presetrend & t.me/playlistrend
 
 import sys
 
@@ -29,8 +29,8 @@ from userbot import (
 )
 from userbot.modules.gcast import GCAST_BLACKLIST as GBL
 
-EOL = "EOL\nMan-UserBot v{}, Copyright © 2021-2022 ʀɪsᴍᴀɴ• <https://github.com/mrismanaziz>"
-MSG_BLACKLIST = "MAKANYA GA USAH BERTINGKAH GOBLOK, USERBOT {} GUA MATIIN NAJIS BANGET DIPAKE JAMET KEK LU.\nMan-UserBot v{}, Copyright © 2021-2022 ʀɪsᴍᴀɴ• <https://github.com/mrismanaziz>"
+EOL = "EOL\nPesong-UserBot v{}, Copyright © 2021-2022 fahri• <https://github.com/fahriwetv08>"
+MSG_BLACKLIST = "makanya jangan buat masalah, USERBOT {} aku matiin.\nPesong-UserBot v{}, Copyright © 2021-2022 fahri• <https://github.com/fahriwetv08>"
 
 
 async def man_client(client):
