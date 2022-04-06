@@ -7,7 +7,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/mrismanaziz/Man-Userbot/fork)
 [![GitHub Stars](https://img.shields.io/github/stars/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/mrismanaziz/Man-Userbot/stargazers)
 
-Man-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+Pesong-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -65,7 +65,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 </details>
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://risman.vercel.app/deploy.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/fahriwetv08/pesonguserobot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 ## Updates & Support
 
