@@ -3,8 +3,8 @@
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
-# Recode by @mrismanaziz
-# @SharingUserbot
+# Recode by @antoniusfahri
+# @presetrend
 """ Userbot module for keeping control who PM you. """
 
 from sqlalchemy.exc import IntegrityError
@@ -20,9 +20,9 @@ from userbot.events import man_cmd
 from userbot.utils import edit_delete, edit_or_reply
 
 DEF_UNAPPROVED_MSG = (
-    "╔════════════════════╗\n"
-    "   𝗔𝗧𝗧𝗘𝗡𝗧𝗜𝗢𝗡 𝗣𝗟𝗘𝗔𝗦𝗘 \n"
-    "╚════════════════════╝\n"
+    "╔═══════════════╗\n"
+    "   Perhatian \n"
+    "╚═══════════════╝\n"
     "• Saya belum menyetujui anda untuk chat.\n"
     "• Tunggu sampai saya menyetujui chat anda.\n"
     "• Jangan Spam Chat atau anda akan otomatis diblokir.\n"
